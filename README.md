@@ -48,6 +48,14 @@ The project demonstrates secure authentication using JWT, REST API integration, 
 
 ---
 
+##Screenshots
+Login page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eee205a8-354f-4b21-8a3d-6cc3366d7ff5" />
+
+Dashboard
+
+
+
 ## Setup Instructions
 
 ### Backend Setup
