@@ -82,7 +82,7 @@ const Login = () => {
                                     type="email"
                                     required
                                     className="input-field pl-10"
-                                    placeholder="you@example.com"
+                                    placeholder="E-mail"
                                     value={formData.email}
                                     onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                                 />
@@ -152,5 +152,6 @@ const Login = () => {
         </div>
     );
 };
+
 
 export default Login;
