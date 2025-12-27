@@ -53,7 +53,10 @@ Login page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eee205a8-354f-4b21-8a3d-6cc3366d7ff5" />
 
 Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/487a8ac1-73a5-4596-bccf-7d9b48db7d90" />
 
+##Courses
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba002bba-df1a-49dd-888f-627b8b1b3c42" />
 
 
 ## Setup Instructions
